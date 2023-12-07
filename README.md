@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/lfZahQ89QU3ruLvjL1/giphy.gif" width="100"/>
@@ -28,8 +26,6 @@
           
 </p>
 
-
-
 <h2> 💻  &nbsp; Languages I know </h2>
 <p align = "left"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -41,5 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" width="45" height="45"/>
                
 </p>
+
+<h2> Github Stats </h2>
+[![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=loser564)](https://github.com/anuraghazra/github-readme-stats)
 
 
