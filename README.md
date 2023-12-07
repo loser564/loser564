@@ -1,26 +1,15 @@
+### Hi there 👋
 
 
-<!--
-**loser564/loser564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently working on bio-informatics research.
+- 🌱 I’m currently learning algorithms and object oriented programming in school. 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with data analytics research.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: alicia.lam.2406@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Big fan of mechnical keyboards!
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
-</div>
 
-<div id="badges">
-  <a href = " www.linkedin.com/in/alicia-lam-898644211"
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
