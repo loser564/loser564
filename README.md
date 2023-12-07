@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/lfZahQ89QU3ruLvjL1/giphy.gif" width="100"/>
