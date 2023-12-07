@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/lfZahQ89QU3ruLvjL1/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</div>
+
 🔭 I’m currently working on bio-informatics research. <br>
  🌱 I’m currently learning algorithms and object oriented programming in school. <br>
 🤔 I’m looking for help with data analytics research. <br>
