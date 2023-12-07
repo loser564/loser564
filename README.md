@@ -19,6 +19,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loser564&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+## About me
 🔭 I’m currently working on bio-informatics research. <br>
  🌱 I’m currently learning algorithms and object oriented programming in school. <br>
 🤔 I’m looking for help with data analytics research. <br>
