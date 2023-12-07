@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/lfZahQ89QU3ruLvjL1/giphy.gif" width="100"/>
 </div>
 
-🔭 I’m currently working on bio-informatics research.
- 🌱 I’m currently learning algorithms and object oriented programming in school. 
-🤔 I’m looking for help with data analytics research.
-💬 Ask me about anything!
-📫 How to reach me: alicia.lam.2406@gmail.com
-⚡ Fun fact: Big fan of mechnical keyboards!
+🔭 I’m currently working on bio-informatics research. <br>
+ 🌱 I’m currently learning algorithms and object oriented programming in school. <br>
+🤔 I’m looking for help with data analytics research. <br>
+💬 Ask me about anything! <br>
+📫 How to reach me: alicia.lam.2406@gmail.com <br>
+⚡ Fun fact: Big fan of mechnical keyboards!<br>
 
 
 
