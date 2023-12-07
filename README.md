@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <h1> 
+    hey there
+  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
+  </h1>
+</div>
+
+<div id="badges">
+  <a href = " www.linkedin.com/in/alicia-lam-898644211"
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
