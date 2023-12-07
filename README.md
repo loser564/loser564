@@ -12,6 +12,7 @@
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loser564&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=loser564)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔭 I’m currently working on bio-informatics research. <br>
