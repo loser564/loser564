@@ -21,7 +21,7 @@
 📫 How to reach me: alicia.lam.2406@gmail.com <br>
 ⚡ Fun fact: Big fan of mechnical keyboards!<br>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used </h2>
+<h2> Tools and Softwares</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="rpi" width="45" height="45"/>
@@ -29,7 +29,7 @@
           
 </p>
 
-<h2> 💻  &nbsp; Languages I know </h2>
+<h2> Languages </h2>
 <p align = "left"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45" />
