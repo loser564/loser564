@@ -10,6 +10,8 @@
   </a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loser564)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🔭 I’m currently working on bio-informatics research. <br>
  🌱 I’m currently learning algorithms and object oriented programming in school. <br>
@@ -38,8 +40,5 @@
                
 </p>
 
-<h2> Github Stats </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=loser564" alt="Anurag's GitHub stats"/>
-</a>
+
 
