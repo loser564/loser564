@@ -20,12 +20,10 @@
 </a>
 
 ## About me
-🔭 I’m currently working on bio-informatics research. <br>
- 🌱 I’m currently learning algorithms and object oriented programming in school. <br>
-🤔 I’m looking for help with data analytics research. <br>
+🔭 I’m currently working on bio-informatics research.  <br>
 💬 Ask me about anything! <br>
 📫 How to reach me: alicia.lam.2406@gmail.com <br>
-⚡ Fun fact: Big fan of mechnical keyboards!<br>
+⚡ Fun fact: Will happily nerd out with you about mechanical keyboards, coffee, table tennis and football. <br>
 
 <h2> Tools and Softwares</h2>
 <p align="left">
