@@ -23,7 +23,7 @@
 🔭 I’m currently working on bio-informatics research.  <br>
 💬 Ask me about anything! <br>
 📫 How to reach me: alicia.lam.2406@gmail.com <br>
-⚡ Fun fact: Will happily nerd out with you about mechanical keyboards, coffee, table tennis and football. <br>
+⚡ Fun fact: I build keyboards :D <br>
 
 <h2> Tools and Softwares</h2>
 <p align="left">
