@@ -14,7 +14,7 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser564&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser564&theme=radical&show_icons=true&hide_border=true&layout=compact&show_icons=true" />
 </a>
 
 ## About me
